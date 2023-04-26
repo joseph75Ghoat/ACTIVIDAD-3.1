@@ -1,0 +1,21 @@
+#ocultar-y-mostrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* cambia el color del texto a blanco */
+    white-space: pre-wrap;
+    font-size: 40px;
+  }
+ 
+  p {
+    justify-content: center;
+    align-items: center;
+    white-space: pre-wrap;
+    color:red; /* cambia el color del texto a blanco */
+    font-size: 25px;
+  }
+  
+  body {
+    background-color: #1c1c4b; /* cambia el color de fondo a azul fuerte */
+  }
+  
